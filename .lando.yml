@@ -1,0 +1,5 @@
+name: mapreduce
+recipe: lamp
+config:
+  webroot: www/htdocs
+  php: '8.1'
